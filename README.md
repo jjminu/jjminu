@@ -1,20 +1,56 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&text=Minwoo's%20Github&animation=&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Bio Researcher with Data & Coding Skills </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I have a background in biology and experience interpreting experimental results within specific conditions, standards, and biological contexts.</li></li>Through wet lab experiences such as PCR, DNA extraction, gel electrophoresis, and biological sample preparation, I have developed a strong interest in improving the reliability of biological data.</li></li>I am currently expanding my skills in Python and web development to organize and analyze research data more systematically. I see coding as a tool to improve accuracy, efficiency, and reproducibility in biological research. </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href="https://www.instagram.com/jjminu/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=jjminu"> </a>
-         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
-          </div>  <br> 
+<div align="center">
 
+# Minwoo (Otto) Jang
 
-    
+### Pharmaceutical Sciences & AI
+
+Building practical AI systems and software for biomedical work.
+
+[LinkedIn](https://www.linkedin.com/in/minwooj/) · [Portfolio](https://jjminu.github.io/)
+
+</div>
+
+---
+
+## About me
+
+I'm a graduate student at the **College of Pharmacy, Chung-Ang University**, with a **B.S. in Biology from SUNY Oswego**. I connect hands-on laboratory experience with Python, machine learning, and software development.
+
+My interests include biomedical data analysis, computational biology, and AI applications in pharmaceutical research and drug discovery. I build tools that help turn data and experimental evidence into useful workflows and testable questions.
+
+My long-term goal is to build AI systems that people can use in pharmaceutical and biomedical work, and help researchers adopt them with a clear understanding of their strengths and limitations.
+
+## What I'm working on
+
+- **Biomedical data and modeling** — exploring how computational findings can support biological interpretation and experimental planning.
+- **Local language models and agents** — connecting retrieval, tools, persistent memory, and evaluation in usable applications.
+- **Scientific workflow tools** — building small applications that make everyday laboratory work easier to organize and repeat.
+
+## Selected public projects
+
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| [**OTTO**](https://github.com/jjminu/otto-llm) | A local Korean language-model system built around a ~318M-parameter GPT, with RAG, tool use, persistent memory, a FastAPI interface, and evaluation workflows. The repository documents current capabilities and limitations. | Python · FastAPI · LangChain · LangGraph · Chroma |
+| [**Cell Passage Calculator**](https://github.com/jjminu/cell-calculator) | A browser-based calculator that converts cell counts into passage volumes using preset targets and displays the calculation steps. | HTML · CSS · JavaScript |
+| [**Personal Portfolio**](https://github.com/jjminu/jjminu.github.io) | A website presenting my background, research interests, and software projects. [Visit the site](https://jjminu.github.io/). | HTML · CSS · JavaScript |
+
+## Toolbox
+
+| Area | Tools & experience |
+| --- | --- |
+| Data & modeling | Python · pandas · machine learning · exploratory computational modeling |
+| AI systems | Local LLMs · RAG · LangChain · LangGraph · evaluation workflows |
+| Applications | FastAPI · REST APIs · HTML · CSS · JavaScript |
+| Laboratory | PCR · DNA extraction · gel electrophoresis · biological sample preparation |
+
+## Background
+
+- **Chung-Ang University** — Graduate studies, College of Pharmacy.
+- **SUNY Oswego** — B.S. in Biology; Teaching Assistant, Animal Development Lab, September–December 2025.
+- **Springboard** — Software engineering training in front-end and back-end development, databases, and data structures and algorithms.
+
+## Let's connect
+
+I welcome conversations and collaborations in **pharmaceutical sciences, AI, computational biology, and scientific software**.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/minwooj/)
