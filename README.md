@@ -38,11 +38,11 @@ I want to turn advances in AI into **practical systems for pharmaceutical and bi
     </td>
     <td width="33%" valign="top">
       <h3>🐭 BehavTrack</h3>
-      <p><b>Experimental videos → behavioral measurements</b></p>
-      <p>A Python toolkit for recording and analyzing rodent behavior from webcams or recorded videos, with movement analysis, pose-data import, reports, and manual review.</p>
-      <p>Accuracy on real experimental videos has not yet been established.</p>
-      <p><code>Python</code> <code>Video Analysis</code> <code>Research Tools</code></p>
-      <p><sub>🧪 Development &amp; validation<br />🔒 Private repository</sub></p>
+      <p><b>Webcam recordings → reproducible reports</b></p>
+      <p>A Windows research tool with a browser UI for webcam recording, calibrated distance and speed analysis, cage activity, and cage-level group summaries.</p>
+      <p>Supports remote capture, manual review, and HTML/CSV reports, with a reproducible synthetic demo and documented validation limits.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>NumPy</code></p>
+      <p><sub>🧪 Public research software · <a href="https://github.com/jjminu/behavtrack-research/releases/tag/v0.2.0">v0.2.0</a></sub><br /><a href="https://github.com/jjminu/behavtrack-research"><b>Explore the code ↗</b></a> · <a href="https://github.com/jjminu/behavtrack-research/releases/download/v0.2.0/behavtrack-demo.html">Demo report ↓</a></p>
     </td>
   </tr>
 </table>
@@ -61,6 +61,11 @@ I want to turn advances in AI into **practical systems for pharmaceutical and bi
     <img src="https://img.shields.io/badge/LangGraph-BFD3F8?style=for-the-badge&amp;logo=langgraph&amp;logoColor=374B6A" alt="LangGraph" />
     <img src="https://img.shields.io/badge/RAG-F5C9DD?style=for-the-badge" alt="Retrieval-augmented generation" />
     <img src="https://img.shields.io/badge/Local_LLMs-D9C5F2?style=for-the-badge" alt="Local language models" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/OpenCV-F5C9DD?style=for-the-badge&amp;logo=opencv&amp;logoColor=574665" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/NumPy-BFD3F8?style=for-the-badge&amp;logo=numpy&amp;logoColor=374B6A" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Matplotlib-BFE5D6?style=for-the-badge" alt="Matplotlib" />
   </p>
   <p><sub>🧪 Wet lab: PCR · DNA extraction · gel electrophoresis · biological sample preparation</sub></p>
 </div>
