@@ -76,6 +76,7 @@ I want to turn advances in AI into **practical systems for pharmaceutical and bi
 - **Chung-Ang University** — Graduate studies, College of Pharmacy.
 - **SUNY Oswego** — B.S. in Biology; Teaching Assistant, Animal Development Lab, September–December 2025.
 - **Springboard** — Software engineering training in front-end and back-end development, databases, and data structures and algorithms.
+- **Kakao Tech Bootcamp** — AI Practical Development Track (2026); hands-on training in Python data analysis, machine learning, LLM/RAG applications, and FastAPI-based services.
 
 </details>
 
